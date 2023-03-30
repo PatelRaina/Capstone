@@ -1,0 +1,70 @@
+.text{
+    color: white;
+    font-size: 1.7rem;
+}
+
+.btn1{
+    background-color: brown;
+    font-size: 1.5rem;
+    color: white;
+    border: solid white;
+    margin-top: 5%;
+    text-decoration: none;
+    padding: .4rem .4rem;
+}
+.result{
+    margin-bottom: 3%;
+}
+.table-header {
+    color: #cecece;
+    font-size: 1.6em;
+    text-align: center;
+    background: #212121;
+    padding: 18px .2rem;
+}
+.table-row{
+    font-size: 1.6rem; 
+}
+table {
+    margin-top: 5%;
+    width: 100%;
+}
+.table-header  > tr > td{
+    border: 1px solid white;   
+}
+.table-body  > tr > td{
+    border: 1px solid white;   
+}
+.table-body {
+    font-size: 1.5em;
+    text-align: center;
+    /* color: #cecece; */
+   
+    padding: 18px 0;
+    color: red;
+}
+.table-body1 {
+    font-size: 1.5em;
+    text-align: center;
+    /* color: #cecece; */
+   
+    padding: 18px 0;
+    color: white;
+}
+.chart_title{
+    color:white;
+    text-align: center;
+}
+.chart{
+  
+    
+    margin-bottom: 5%;
+    margin-left: 5%;
+}
+.bar{
+    background-color: white;
+    
+}
+.chartjs-tooltip {
+    background-color: white;
+}

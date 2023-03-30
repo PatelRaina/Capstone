@@ -1,0 +1,40 @@
+.form{
+    color:white;
+    text-align: center;
+    padding-top: 2%;
+}
+.form1{
+    color: red;
+    text-decoration: none;
+    border:solid;
+    border-width: 1px;
+    margin-top: 10px;
+    /* padding: .2em 1.7em; */
+    font-size: 1.2rem;
+    padding: .2em 1.7em;
+}
+.mainForm{
+    text-align: center;
+    width:100%;
+    margin-top:40px;
+    border: solid;
+    border-color: white;
+    padding-bottom: 2%;
+}
+.error{
+    color: red;
+}
+.input{
+    margin-left: 1%;
+    border-color: white;
+    color: white;
+    height:35px;
+}
+
+.btn{
+    padding: .2em 1.7em;
+   
+    color:white;
+    text-decoration: none;
+    background-color: #faff5a;
+}

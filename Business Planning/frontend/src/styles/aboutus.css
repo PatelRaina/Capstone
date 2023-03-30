@@ -1,0 +1,40 @@
+.abouttitle{
+    color: red;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight: 50000;
+    background-image: image('../styles/aboutus1.jpg');
+    margin-bottom: 2%;
+    margin-top:2%;
+}
+
+.consultants{
+    height:500px;
+    width:500px;
+    margin-top:5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.about{
+    margin-top: 6%;
+    color: white;
+    font-size: 1.5rem;
+}
+hr{
+    color: white;
+
+}
+.info{
+    margin-left: 5rem;
+    margin-top: 3rem;
+    text-align: center;
+    width:85%;
+}
+.text,h4{
+    color:white;
+}
+.context{
+    text-align: center;
+
+}
