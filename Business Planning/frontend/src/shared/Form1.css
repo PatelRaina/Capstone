@@ -1,0 +1,61 @@
+.form-bar {
+    background-color: black;
+    padding: 50px;
+    align-items: center;
+    margin-left: 15%;
+  }
+  
+  .mainForm {
+    
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .form {
+    color: rgb(168, 159, 159);
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    align-items: center;
+  }
+  .form h3{
+    font-size: 5rem;
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .error {
+    color: rgb(133, 6, 6);
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .form1 {
+    background-color: rgb(133, 6, 6);
+    color: white;
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .form1:hover {
+    background-color: white;
+    color: rgb(133, 6, 6);
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
